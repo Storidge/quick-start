@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/pMGTbS7.png)
+![Logo](https://i.imgur.com/lEA2a4I.png)
 
 # Quick Start
 
@@ -82,6 +82,7 @@ After adding all storage nodes, return to this node and run following command to
 Run the `cioctl join` command on nodes joining the cluster.
 
 **Single node cluster**
+
 To configure a single node cluster, just run `cioctl create --single-node` to create the cluster and automatically complete initialization.
 
 ## Step 3. Initialize cluster
@@ -133,4 +134,4 @@ Login to Portainer at any node's IP address on port 9000. Assign an admin passwo
 
 Refer to the [Getting Started guide](https://guide.storidge.com/) for exercises to create volumes, profiles, deploy stateful apps, test high availability, perform cluster management, etc.
 
-Join us on slack @ http://storidge.com/join-cio-slack/ 
+Join us on slack @ http://storidge.com/join-cio-slack/
