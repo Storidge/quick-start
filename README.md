@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/lEA2a4I.png)
+![Logo](https://i.imgur.com/FfIj2NA.png)
 
 # Quick Start
 
